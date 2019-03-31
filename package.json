@@ -1,0 +1,26 @@
+{
+  "name": "px-to-viewport",
+  "description": "A CSS post-processor that converts px to viewport units.",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "version": "1.0.0",
+  "license": "MIT",
+  "homepage": "https://github.com/Grewer/px-to-viewport",
+  "main": "index.js",
+  "keywords": [
+    "css",
+    "units",
+    "pixel",
+    "px",
+    "viewport",
+    "vw",
+    "vmin",
+    "vmax",
+    "postcss",
+    "postcss-plugin"
+  ],
+  "dependencies": {
+    "postcss": "^6.0.21"
+  }
+}
